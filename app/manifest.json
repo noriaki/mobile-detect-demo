@@ -1,0 +1,17 @@
+{
+  "lang": "en-US",
+  "name": "Mobile-detect.js Demo",
+  "short_name": "Mobile Detect",
+  "start_url": "/?display=standalone",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2d2d2d",
+  "theme_color": "#cccccc",
+  "description": "",
+  "icons": [
+    {
+      "src": "/app-512x512.png",
+      "sizes": "512x512", "type": "image/png"
+    }
+  ]
+}
